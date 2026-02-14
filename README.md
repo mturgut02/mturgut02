@@ -1,16 +1,20 @@
-## Hi there 👋
+# Musa Can Turgut
 
-<!--
-**mturgut02/mturgut02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student at Istanbul Technical University
 
-Here are some ideas to get you started:
+## Technical Focus
+- Backend Development (C#, ASP.NET Core)
+- RESTful API Design
+- PostgreSQL & Relational Database Design
+- Algorithm Design & Graph Theory
+- Docker & System-Level Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+- PhotoTogether – Social Photo Sharing Platform
+- Turkish Basketball Super League Database System
+- Spectral Clustering on ITU Road Network
+
+## Contact
+LinkedIn: Musa Can Turgut
+Email: musacan.turgut.1@gmail.com
+
